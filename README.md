@@ -12,3 +12,9 @@ https://github.com/github/gitignore
 
 jackson设置返回null为空字符串<br>
 https://blog.csdn.net/xqnode/article/details/86529980
+
+springBoot中Logback日志的使用<br>
+https://blog.csdn.net/qq_28893679/article/details/78327952
+
+springboot配置错误页面及全局异常
+https://www.cnblogs.com/wangzhuxing/p/10158390.html
