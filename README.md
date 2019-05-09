@@ -12,3 +12,6 @@ https://github.com/github/gitignore
 
 jackson设置返回null为空字符串<br>
 https://blog.csdn.net/xqnode/article/details/86529980
+
+springboot整合mybatis(SSM开发环境搭建)<br>
+https://www.cnblogs.com/qlqwjy/p/8463822.html
