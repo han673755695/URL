@@ -15,3 +15,9 @@ https://blog.csdn.net/xqnode/article/details/86529980
 
 springboot整合mybatis(SSM开发环境搭建)<br>
 https://www.cnblogs.com/qlqwjy/p/8463822.html
+
+【spring-boot】 springboot整合quartz实现定时任务<br>
+https://www.cnblogs.com/lic309/p/4089633.html
+
+Spring Boot2.0配置Druid数据库连接池（单数据源、多数据源、数据监控<br>
+https://blog.csdn.net/qq_38455201/article/details/80769354
